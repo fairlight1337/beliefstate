@@ -5,6 +5,6 @@ The beliefstate package supplies a ROS driven system with recording capabilities
 
 Due to popular demand, the project was moved to a different repository:
 
-https://github.com/code-iai/beliefstate
+https://github.com/code-iai/ros-semrec
 
 Please refer to this repository for any current code, documentation, and contributions.
